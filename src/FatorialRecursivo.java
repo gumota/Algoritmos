@@ -10,9 +10,7 @@ public class FatorialRecursivo {
 
 		System.out.println("Digite um número e obtenha seu fatorial:");
 
-		int num = in.nextInt();
-
-		System.out.println(calculaFatorial(num));
+		System.out.println(calculaFatorial(in.nextInt()));
 
 	}
 
